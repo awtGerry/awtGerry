@@ -1,5 +1,5 @@
 # Hi there 🤙
-Hello my name is Victor im 23 years old.
+Hello my name is Victor.
 
 - 🐧 One day i discovered linux, then i never looked back.
 - 🦀 Currently learning rust.
