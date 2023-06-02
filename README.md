@@ -2,7 +2,7 @@
 Hello my name is Victor.
 
 - 🐧 One day i discovered linux, then i never looked back.
-- 🦀 Currently learning rust.
+- 🔷 Currently learning go.
 - 🌎 I speak english, spanish and a little catalan.
 - 😃 I love sports, dogs and books.
 
