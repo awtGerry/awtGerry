@@ -1,7 +1,7 @@
 # Hi there 🤙
 Hello my name is Victor.
 
-- 🐧 One day i discovered linux, then i never looked back.
+- 🐧 One day i discovered linux, then i never look back.
 - 🐋 Currently learning docker.
 - 🌎 I speak english, spanish and a little catalan.
 - 😃 I love sports, dogs and books.
